@@ -3,6 +3,10 @@
 Thousands or even millions of georeferenced points are combined together making a 3D visualization, which not only describe the land mask all over the world, but also is available for earthquake information. As for the earthquakes, you can request any time period or any magnitude range from the request API by adding formatted query.
 
 
+https://user-images.githubusercontent.com/109449521/196058705-3490bb64-468c-4294-9544-10e0312d7fb5.mov
+
+
+
 ## Installation
 Lots of python modules are used in this project. Some common and simple ones do not have to install, like `os`, `numpy`, `json`, `urllib.request`, `math` and `matplotlib`.
 
